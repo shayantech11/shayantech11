@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Muhammad Shayan younas</h1>
 <h3 align="center">A passionate computer scientist from Pakistan.</h3>
 
