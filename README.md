@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a0dad&height=180&section=header&text=Muhammad%20Shayan%20Younas&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Computer%20Scientist%20%7C%20Security%20Enthusiast%20%7C%20Web%20Developer&descSize=16&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a0dad&height=180&section=header&text=Muhammad%20Shayan%20Younas&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Security%20Enthusiast%20%7C%20Computer%20Scientist%20%7C%20Web%20Developer&descSize=16&descAlignY=62" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Computer+Scientist+%F0%9F%92%BB;React.js+%7C+GSAP+%7C+Node.js+Dev;CCNA+%7C+Ethical+Hacking+%7C+TryHackMe;Open+Source+Collaborator+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Network+Security+%26+Threat+Detection+%F0%9F%94%92;SIEM+%7C+Log+Analysis+%7C+Network+Forensics;CCNA+%7C+Ethical+Hacking+%7C+TryHackMe;React.js+%7C+Node.js+Dev+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,23 +22,29 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Shayan** — a passionate Computer Scientist from 🇵🇰 Pakistan, obsessed with building cool things on the web and breaking things (ethically) in cybersecurity.
+Hey there! I'm **Shayan** — a Computer Science student from 🇵🇰 Pakistan, focused on **network security, threat detection, and SOC operations**, with a background in web development.
 
-- 🌱 Currently leveling up in **React.js**, **GSAP**, **CCNA Networking**, and **Ethical Hacking**
+- 🌱 Currently leveling up in **network forensics**, **intrusion detection (Suricata)**, **packet analysis (Wireshark/tshark)**, and **CCNA networking**
 - 🔭 Exploring **CTF Challenges** on TryHackMe
-- 👯 Open to collaborate on **Cybersecurity CTFs** and **Web Projects**
+- 👯 Open to collaborate on **Cybersecurity CTFs**, **SOC/Blue Team projects**, and **Web Projects**
 - ⚡ Fun fact: *I debug my life like I debug code — sometimes it works, sometimes it needs a coffee first ☕*
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🔐 Security & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)
+![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Databases
@@ -48,15 +54,10 @@ Hey there! I'm **Shayan** — a passionate Computer Scientist from 🇵🇰 Paki
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🔐 Security & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)
-![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
 ### 🧰 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 ---
 
